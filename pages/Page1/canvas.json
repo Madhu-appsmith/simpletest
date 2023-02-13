@@ -137,7 +137,7 @@
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "editedRowsData": [],
-              "singleSelectRow": true,
+              "singleSelectRow": false,
               "widgetName": "Tabulator1",
               "newButtonEnable": true,
               "columnOrder": [
